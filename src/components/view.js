@@ -104,7 +104,7 @@ show ? (
           <div className="d-flex mx-4">
                <p className="mx-4">HotJar</p>
                <Toggle className="mx-5" on={on} onClick={() => toggle(!on)}/>
-               <a href="#" className="mx-5 px-">Go to Site</a>
+               <a href="#" className="mx-5 px-4">Go to Site</a>
           </div> 
            
          </Accordion.Body>
