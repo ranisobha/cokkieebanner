@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background: grey;
+    padding: 15px;
+    border-radius: 10px;
+}
+.modal-wrapper{
+    background: #fff;
+    border: 1px solid grey;
+    height: 800%;
+    border-radius: 8px;
+    max-height: 1200px;
+    max-width:1350px;
+    
+}
+.modal-header h3{
+    font-weight: 700;
+    
+}
+.card-body{
+    text-align: left;
+}
+span{
+    margin-left: 40rem;
+}
+.accordian{
+    padding:50px;
+    background:#E0E0E0;
+}
+#btn-1{
+    background: #0BDA51;
+    border:none;
+    color:#fff;
+}
+h6{
+    font-weight :600;
+}
